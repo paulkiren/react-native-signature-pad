@@ -1,4 +1,4 @@
-var content = (penColor, backgroundColor, dataURL) => `
+const content = (penColor, backgroundColor, dataURL) => `
 
   var showSignaturePad = function (signaturePadCanvas, bodyWidth, bodyHeight) {
     /*We're rotating by 90% -> Flip X and Y*/
