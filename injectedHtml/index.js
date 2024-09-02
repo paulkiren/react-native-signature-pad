@@ -1,5 +1,4 @@
-var content = script =>
-  `<html>
+const content = script => `<html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
     *
