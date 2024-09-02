@@ -15,7 +15,7 @@
  * http://www.lemoda.net/maths/bezier-length/index.html
  *
  */
-var content = `var SignaturePad = (function (document) {
+const content = `var SignaturePad = (function (document) {
   "use strict";
 
   var SignaturePad = function (canvas, options) {
